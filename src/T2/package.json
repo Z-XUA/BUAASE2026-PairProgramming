@@ -1,0 +1,9 @@
+{
+  "name": "hanamikoji-t2-test",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "submit-test": "node test.js"
+  }
+}
